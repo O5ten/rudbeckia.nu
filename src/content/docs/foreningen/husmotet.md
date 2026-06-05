@@ -7,4 +7,6 @@ Husmötet är föreningens högsta beslutande organ och det är där vi bestämm
 
 ## Snabbkurs i mötesteknik
 
+![Översikt över formell mötesteknik](../../../assets/foreningen/husmotet/motesteknik.png)
+
 Om det här med formell mötesteknik inte riktigt varit din grej tidigare lär vi dig allt du behöver veta när du deltar vid mötena.

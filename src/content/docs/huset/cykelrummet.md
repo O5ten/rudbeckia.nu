@@ -3,6 +3,8 @@ title: Cykelrummet
 description: Husets två cykelrum – ett i källaren och ett på markplan.
 ---
 
+![Cykelrummet på markplan](../../../assets/huset/cykelrummet/cykelrum-1.png)
+
 Vi har två cykelrum: ett i källaren och ett på markplan. Det på markplan är lite mindre och har en kompressor för att pumpa däcken och en hylla för att ställa/låna cykelkorgar och hjälmar.
 
 ## Var ställer jag min cykel?
@@ -16,3 +18,5 @@ Om du använder din cykel varje dag kan du ställa den på markplan.
 ### I källaren
 
 Om du använder din cykel mer sällan än varje dag, eller om din cykel behöver laddas.
+
+![Cykelrummet i källaren](../../../assets/huset/cykelrummet/cykelrum-2.png)

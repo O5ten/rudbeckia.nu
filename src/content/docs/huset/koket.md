@@ -3,6 +3,8 @@ title: Köket
 description: Rudbeckias fullt utrustade storkök.
 ---
 
+![Rudbeckias storkök](../../../assets/huset/koket/koket.png)
+
 I Rudbeckia är vi väldigt stolta över vårt fina kök!
 
 Det är ett fullt utrustat storkök med spishäll, två kokare, varmluftsugn, stekhäll och industridiskmaskin. Här lagar [Matlagen](../../kollektivet/matlagen/) mat varje **tisdag** och **torsdag**. Övrig tid går köket utmärkt att använda för privat bruk – så länge man praktiserar scout-regeln och städar det till samma nivå som man hittade det eller bättre.

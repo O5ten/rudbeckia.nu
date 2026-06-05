@@ -3,6 +3,8 @@ title: Nyinflyttad
 description: Checklista för dig som nyligen flyttat in i kollektivhuset Rudbeckia.
 ---
 
+![Illustration: nyinflyttning till Rudbeckia](../../assets/nyinflyttad/nyinflyttad.png)
+
 Här är en checklista för att vägleda dig som nyinflyttad.
 
 ## Inför inflytt

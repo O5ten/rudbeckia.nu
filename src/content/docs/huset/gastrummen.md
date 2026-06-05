@@ -3,6 +3,8 @@ title: Gästrummen
 description: Bokning och regler för Rudbeckias gästrum.
 ---
 
+![Ett av Rudbeckias gästrum](../../../assets/huset/gastrummen/gastrum.png)
+
 Gästrummen kan enkelt bokas utifrån behov på en fysisk kalender vid torget. Det finns tre separata gästrum varav två är större och ligger på markplan intill lekrummet. Sen finns det ett litet övernattningsrum på plan 6 precis intill hissen.
 
 ## Hur bokar jag ett gästrum?

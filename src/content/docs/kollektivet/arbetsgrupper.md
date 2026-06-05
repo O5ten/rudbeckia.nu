@@ -3,6 +3,8 @@ title: Arbetsgrupper
 description: Husets arbetsgrupper – inredning, sociala, kök, IT med flera.
 ---
 
+![Husets arbetsgrupper](../../../assets/kollektivet/arbetsgrupper/arbetsgrupper.png)
+
 Husets behov och de boendes intressen styr vilka arbetsgrupper som finns.
 
 ## Inredningsgruppen
