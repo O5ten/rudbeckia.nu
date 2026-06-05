@@ -11,6 +11,11 @@ export default defineConfig({
 		starlight({
 			plugins: [starlightThemeFlexoki({ accentColor: 'yellow' })],
 			title: 'Kollektivhuset Rudbeckia',
+			logo: {
+				src: './src/assets/rudbeckia.png',
+				alt: 'Rudbeckias logotyp',
+			},
+			favicon: '/favicon.png',
 			defaultLocale: 'sv',
 			locales: {
 				root: { label: 'Svenska', lang: 'sv' },
