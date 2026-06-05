@@ -1,40 +1,50 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-template: splash # Remove or comment out this line to display the site sidebar on this page.
+title: Kollektivhuset Rudbeckia
+description: Välkommen till kollektivhuset Rudbeckia i Rosendal, Uppsala.
+template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
+  tagline: Ett kollektivhus i stadsdelen Rosendal i Uppsala – 42 lägenheter och över 300 kvadratmeter gemensamma ytor.
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Är du nyfiken på att bo här?
+      link: /foreningen/formedlingspolicy/
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
+      variant: primary
+    - text: Läs mer om huset
+      link: /huset/
       icon: external
-      variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Välkommen!
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+I november 2021 blev kollektivhuset Rudbeckia i stadsdelen [Rosendal](/rosendal/) i Uppsala inflyttningsklart. Huset har 42 lägenheter och över 300 kvadratmeter gemensamma ytor. Boendeformen utvecklas för att den ska bli precis så fantastisk som vi önskar. Varje dag ger nya möjligheter att lära känna varandra.
+
+:::tip[Nyfiken på att bo i kollektivhuset?]
+- [Kolla lediga lägenheter hos Uppsala bostadskö](https://www.bostad.uppsala.se/mypages/app/?district=Rosendal&objectType=collective&region=Uppsala)
+- [Hemvist fastigheters egen kö](https://hemvist-minasidor.se/sok-ledigt/?actionId=&omraden=SUPPS&oboTyper=&maxAntalDagarPublicerad=&hyraMax=)
+- Eller [kontakta Rudbeckias förmedlingsgrupp direkt](mailto:ny@rudbeckia.nu)
+:::
+
+## Vad vill du veta mer om?
+
+<CardGrid>
+	<Card title="Nyinflyttad" icon="open-book">
+		Checklista och tips för dig som precis flyttat in. [Läs mer →](/nyinflyttad/)
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
+	<Card title="Föreningen" icon="seti:notebook">
+		Värdegrund, medlemskap, styrelse och husmöten. [Läs mer →](/foreningen/)
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Kollektivet" icon="seti:happenings">
+		Matlagen, arbetsgrupper, städning och odling. [Läs mer →](/kollektivet/)
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Huset" icon="seti:home">
+		Matsalen, köket, vardagsrummet, takterassen och mer. [Läs mer →](/huset/)
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Kalendarium" icon="seti:clock">
+		Husets gemensamma aktiviteter och bokningar. [Läs mer →](/kalendarium/)
+	</Card>
+	<Card title="Kontakt" icon="email">
+		Hur du når styrelsen och föreningen. [Läs mer →](/kontakt/)
 	</Card>
 </CardGrid>
