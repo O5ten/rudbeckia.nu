@@ -7,8 +7,8 @@ Det kollektiva livet på Rudbeckia bärs upp av matlagen, våra arbetsgrupper, g
 
 ## Läs mer
 
-- [Arbetsgrupper](/kollektivet/arbetsgrupper/)
-- [Matlagen](/kollektivet/matlagen/)
-- [Städning](/kollektivet/stadning/) och [städschema](/kollektivet/stadschema/)
-- [Odling](/kollektivet/odling/)
-- [Digital kommunikation](/kollektivet/digital-kommunikation/)
+- [Arbetsgrupper](./arbetsgrupper/)
+- [Matlagen](./matlagen/)
+- [Städning](./stadning/) och [städschema](./stadschema/)
+- [Odling](./odling/)
+- [Digital kommunikation](./digital-kommunikation/)

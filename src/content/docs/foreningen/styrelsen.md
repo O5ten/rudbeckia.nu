@@ -20,4 +20,4 @@ Styrelsen representerar föreningen gentemot externa parter och organiserar för
 
 Du når hela styrelsen genom att maila [kontakt@rudbeckia.nu](mailto:kontakt@rudbeckia.nu).
 
-Se även [föregående styrelser](/foreningen/foregaende-styrelser/).
+Se även [föregående styrelser](../foregaende-styrelser/).

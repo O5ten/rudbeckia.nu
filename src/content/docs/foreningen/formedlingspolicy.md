@@ -18,4 +18,4 @@ Om det blir en ledig lägenhet i huset blir förfarandet såhär:
 
 ## Kösystemet
 
-Vid förmedling tar föreningen hänsyn till flera olika kriterier varav köpoäng är ett, och kan vara utslagsgivande om det finns flera sökande. Du får **ETT** köpoäng per års [medlemskap](/foreningen/medlemskap/) i föreningen oavsett om du är vänmedlem eller bomedlem. Vid inflytt eller byte av lägenhet internt i huset återställs dina ködagar.
+Vid förmedling tar föreningen hänsyn till flera olika kriterier varav köpoäng är ett, och kan vara utslagsgivande om det finns flera sökande. Du får **ETT** köpoäng per års [medlemskap](../medlemskap/) i föreningen oavsett om du är vänmedlem eller bomedlem. Vid inflytt eller byte av lägenhet internt i huset återställs dina ködagar.

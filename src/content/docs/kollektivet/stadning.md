@@ -13,4 +13,4 @@ Vi har sagt upp vårt avtal med Hemvist om städning av mer offentliga ytor sås
 
 ## Månadsvis städschema
 
-Se [månadsvis städschema](/kollektivet/stadschema/).
+Se [månadsvis städschema](../stadschema/).

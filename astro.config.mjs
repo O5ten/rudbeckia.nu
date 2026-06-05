@@ -5,7 +5,8 @@ import starlightThemeFlexoki from 'starlight-theme-flexoki';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://test.rudbeckia.nu',
+	site: 'https://o5ten.github.io',
+	base: '/rudbeckia.nu',
 	integrations: [
 		starlight({
 			plugins: [starlightThemeFlexoki({ accentColor: 'yellow' })],

@@ -7,5 +7,5 @@ Egentligen behöver man inte säga så mycket om takterassen, förutom att utsik
 
 - Vi har byggt en trevlig lounge där många sommarkvällar har spenderats.
 - Ibland tar vi upp en plaskpool till barnen för svalka på varma sommardagar.
-- Vi [odlar](/kollektivet/odling/) diverse grönsaker och bär i de många odlingslådorna.
+- Vi [odlar](../../kollektivet/odling/) diverse grönsaker och bär i de många odlingslådorna.
 - Om vi har en tillställning som kräftskiva eller surströmmingsfest har vi det garanterat på taket.

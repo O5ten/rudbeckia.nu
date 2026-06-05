@@ -10,4 +10,4 @@ Här hittar du länkar för att boka husets gemensamma resurser.
 | Ellastcykeln | <http://lastcykel.rudbeckia.nu> |
 | Elcykeln | <http://elcykel.rudbeckia.nu> |
 
-Gästrum bokas på plats via kalendern på whiteboarden vid torget – se [Gästrummen](/huset/gastrummen/).
+Gästrum bokas på plats via kalendern på whiteboarden vid torget – se [Gästrummen](../huset/gastrummen/).
