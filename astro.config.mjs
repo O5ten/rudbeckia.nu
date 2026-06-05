@@ -23,6 +23,16 @@ export default defineConfig({
 				},
 			],
 			sidebar: [
+				{
+					label: 'Tjänster',
+					items: [
+						{ label: 'Mattermost', link: 'https://chat.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
+						{ label: 'Wiki', link: 'https://wiki.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
+						{ label: 'Kalender', link: 'https://calendar.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
+						{ label: 'Recept', link: 'https://recept.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
+						{ label: 'Dokument', link: '/dokument/' },
+					],
+				},
 				{ label: 'Hem', link: '/' },
 				{ label: 'Nyinflyttad', link: '/nyinflyttad/' },
 				{
