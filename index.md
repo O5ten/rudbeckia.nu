@@ -2,7 +2,7 @@
 
 Välkommen till **Kollektivhuset Rudbeckia**!
 
-Vi är ett kollektivhus med gemensamma utrymmen och ett varmt community.
+Vi är ett kollektivhus med gemensamma utrymmen och en varm gemenskap.
 
 ---
 
