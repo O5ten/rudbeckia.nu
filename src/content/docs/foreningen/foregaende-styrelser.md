@@ -3,6 +3,8 @@ title: Föregående styrelser
 description: Tidigare styrelser i föreningen Kollektivhuset Rudbeckia.
 ---
 
+
+
 ## 2023 års styrelse
 
 | Roll | Vem |
