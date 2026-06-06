@@ -22,9 +22,24 @@ export default defineConfig({
 			},
 			social: [
 				{
+					icon: 'facebook',
+					label: 'Facebook',
+					href: 'https://www.facebook.com/kollektivhusuppsalarosendal',
+				},
+				{
+					icon: 'instagram',
+					label: 'Instagram',
+					href: 'https://www.instagram.com/kollektivhuset_rudbeckia/',
+				},
+				{
+					icon: 'heart',
+					label: 'Intresseanmälan för lägenhet (ny@rudbeckia.nu)',
+					href: 'mailto:ny@rudbeckia.nu',
+				},
+				{
 					icon: 'external',
-					label: 'rudbeckia.nu',
-					href: 'https://rudbeckia.nu',
+					label: 'Lediga lägenheter hos Uppsala bostadsförmedling',
+					href: 'https://www.bostad.uppsala.se/mypages/app?district=Rosendal&objectType=collective&region=Uppsala',
 				},
 			],
 			sidebar: [

@@ -14,7 +14,7 @@ Om det blir en ledig lägenhet i huset blir förfarandet såhär:
 1. I första hand går erbjudandet till föreningens bomedlemmar för lägenhetsbyte.
 2. I andra hand går erbjudandet ut till föreningens vänmedlemmar.
 3. I tredje hand går erbjudandet ut till andra personer som föreningen förordar.
-4. I fjärde hand går lägenheten ut på allmän förmedling i Hemvists egen kö och eventuellt [bostad.uppsala.se](https://bostad.uppsala.se).
+4. I fjärde hand går lägenheten ut på allmän förmedling i Hemvists egen kö och eventuellt [bostad.uppsala.se](https://www.bostad.uppsala.se/mypages/app?district=Rosendal&objectType=collective&region=Uppsala).
 
 ## Kösystemet
 
