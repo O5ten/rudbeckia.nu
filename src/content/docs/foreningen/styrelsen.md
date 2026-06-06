@@ -5,7 +5,7 @@ description: Föreningens styrelse representerar Rudbeckia gentemot externa part
 
 Styrelsen representerar föreningen gentemot externa parter och organiserar föreningens gemensamma arbete i form av husmöten.
 
-## 2025 års styrelse består av följande medlemmar
+## Styrelse 2025
 
 | Roll | Vem |
 |------|-----|

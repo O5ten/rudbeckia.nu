@@ -7,12 +7,12 @@ description: Rudbeckias fullt utrustade storkök.
 
 I Rudbeckia är vi väldigt stolta över vårt fina kök!
 
-Det är ett fullt utrustat storkök med spishäll, två kokare, varmluftsugn, stekhäll och industridiskmaskin. Här lagar [Matlagen](../../kollektivet/matlagen/) mat varje **tisdag** och **torsdag**. Övrig tid går köket utmärkt att använda för privat bruk – så länge man praktiserar scout-regeln och städar det till samma nivå som man hittade det eller bättre.
+Ett fullt utrustat storkök med spishäll, två kokare, varmluftsugn, stekhäll och industridiskmaskin. Här lagar [Matlagen](../../kollektivet/matlagen/) mat varje **tisdag** och **torsdag**. Övrig tid får köket användas privat — så länge du följer scout-regeln och lämnar det minst lika rent som du hittade det.
 
 ## Hur funkar allting i köket?
 
-I takt med att man deltar i matlagen finns alla möjligheter att lära sig hur köket fungerar. Det bästa sättet att lära sig är att delta i matlagningen.
+Du lär dig köket bäst genom att delta i matlagen.
 
 ## Kan jag låna någonting från köket?
 
-Detta har ännu inte diskuterats vid ett husmöte, men om man lånar utrustning eller råvaror förväntas man lämna tillbaka eller ersätta det innan det behövs i köket nästa gång.
+Frågan har inte tagits upp på husmöte än, men lånar du utrustning eller råvaror förväntas du lämna tillbaka eller ersätta det innan köket behöver det nästa gång.

@@ -3,7 +3,9 @@ title: Städschema för gemensamma ytor
 description: Månadsvis städschema för Rudbeckias gemensamma ytor.
 ---
 
-Anteckna dig för minst ett tillfälle per månad. Gäller alla personer 18 år och över. Skriv upp datum när du planerar att städa och signera när det är gjort. **En person = en sektion.** Städinstruktion finns på anslagstavlan.
+Anteckna dig för minst ett tillfälle per månad. Gäller alla från 18 år. Skriv upp datum när du planerar att städa och signera när det är gjort. **En person = en sektion.** Städinstruktion finns på anslagstavlan.
+
+[📄 Ladda ner stadschema.pdf](/rudbeckia.nu/pdfs/stadschema.pdf)
 
 ## A
 

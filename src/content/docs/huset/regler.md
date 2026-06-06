@@ -3,25 +3,25 @@ title: Regler
 description: Husets gemensamma regler – så är vi schyssta mot varandra.
 ---
 
-Detta är en löst sammansatt lista på regler som utvecklats utefter behov i huset.
+En löst sammansatt lista på regler som vuxit fram efter behov.
 
 ## Generellt
 
-- Efter 22 och före 07 bör man undvika störande ljud såsom musik med basgång som kan höras in till grannen.
-- Släck lamporna i våra gemensamma utrymmen när det inte är någon där.
+- Undvik störande ljud mellan 22 och 07, t.ex. musik med basgång som hörs in till grannen.
+- Släck lamporna i gemensamma utrymmen när ingen är där.
 
 ## Köket
 
 - Inga oövervakade barn i köket. Använd barnlåset på köksdörren vid behov.
-- Följ hygienreglerna som finns uppsatta i köket så vi slipper matförgiftningar.
+- Följ hygienreglerna som sitter uppe i köket så slipper vi matförgiftningar.
 
 ## Lekrummet
 
-- Småbarnsföräldrar ansvarar för att det är undanplockat i lekrummet senast vid kvällstid.
+- Småbarnsföräldrar ansvarar för att lekrummet är undanplockat senast till kvällen.
 
 ## Vardagsrummet
 
-- Undvik att hoppa i soffan – för att soffans livslängd ska få vara lång.
+- Hoppa inte i soffan — så håller den längre.
 - Projektorn ska vara avstängd när vardagsrummet är tomt.
 
 ## Tvättstugan
@@ -41,4 +41,4 @@ Efter användning:
 
 ## Mattermost
 
-Är du upprörd över någonting en granne sagt eller gjort? Andas i så fall en liten stund och ta det direkt med grannen det berör. Stämningen i huset tar tyvärr skada av att tjafs pågår digitalt.
+Är du upprörd över vad en granne sagt eller gjort? Andas, och ta det sedan direkt med grannen. Digitalt tjafs skadar stämningen i huset.

@@ -3,12 +3,12 @@ title: Städning
 description: Hur städningen av husets gemensamma ytor är organiserad.
 ---
 
-Vi har ett städavtal med SVEA Fastigheter (vår hyresvärd) som förbinder oss att städa de gemensamma ytor vi använder inuti huset. För besväret får föreningen en summa pengar varje månad.
+Föreningen har ett städavtal med SVEA Fastigheter (vår hyresvärd) som förbinder oss att städa de gemensamma inomhusytor vi använder, mot månadsersättning.
 
-Städningen är föreningens huvudinkomst – det är med andra ord mycket viktigt att vi sköter vårt städuppdrag väl.
+Städningen är föreningens huvudinkomst — det är viktigt att vi sköter uppdraget väl.
 
 :::note
-Vi har sagt upp vårt avtal med Hemvist om städning av mer offentliga ytor såsom trapphus, entréer, cykelrum och källare, och städar nu bara våra gemensamma "inre" ytor. De är organiserade i sju olika städgrupper: kontor, takrum, barnrum, snicken, gymmet, vardagsrum och matsal. Alla husmedlemmar ingår i någon av städgrupperna.
+Vi har sagt upp avtalet med Hemvist om städning av mer offentliga ytor (trapphus, entréer, cykelrum och källare) och städar nu bara våra gemensamma inre ytor. De är fördelade på sju städgrupper: kontor, takrum, barnrum, snicken, gymmet, vardagsrum och matsal. Alla husmedlemmar ingår i en grupp.
 :::
 
 ## Månadsvis städschema

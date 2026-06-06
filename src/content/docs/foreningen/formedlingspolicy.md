@@ -3,13 +3,13 @@ title: Förmedlingspolicy
 description: Hur lediga lägenheter i Rudbeckia förmedlas.
 ---
 
-Hemvist Förvaltning är kollektivhusets hyresvärd som äger huset, sköter den tekniska driften och är de som hyresgästerna betalar hyra till. Alla hyreskontrakt är personliga.
+Hemvist Förvaltning är husets hyresvärd: äger huset, sköter den tekniska driften och tar emot hyran. Alla hyreskontrakt är personliga.
 
-Föreningen Kollektivhuset Rudbeckia verkar för gemenskapen och livet inom huset. Huset är för personer som vill bo kollektivt. Varje ny hyresgäst ska därför godkännas av föreningen, som sedan förordar den till hyresvärden för kontraktsskrivning. Förhållandet till fastighetsägaren regleras av Förvaltningsavtalet.
+Föreningen Kollektivhuset Rudbeckia verkar för gemenskapen i huset. Eftersom huset är för dem som vill bo kollektivt godkänner föreningen varje ny hyresgäst och förordar den sedan till hyresvärden för kontraktsskrivning. Förhållandet till fastighetsägaren regleras av Förvaltningsavtalet.
 
 ## Förmedlingsordning
 
-Om det blir en ledig lägenhet i huset blir förfarandet såhär:
+När en lägenhet blir ledig:
 
 1. I första hand går erbjudandet till föreningens bomedlemmar för lägenhetsbyte.
 2. I andra hand går erbjudandet ut till föreningens vänmedlemmar.
@@ -18,4 +18,4 @@ Om det blir en ledig lägenhet i huset blir förfarandet såhär:
 
 ## Kösystemet
 
-Vid förmedling tar föreningen hänsyn till flera olika kriterier varav köpoäng är ett, och kan vara utslagsgivande om det finns flera sökande. Du får **ETT** köpoäng per års [medlemskap](../medlemskap/) i föreningen oavsett om du är vänmedlem eller bomedlem. Vid inflytt eller byte av lägenhet internt i huset återställs dina ködagar.
+Föreningen tar hänsyn till flera kriterier vid förmedling; köpoäng är ett och kan vara utslagsgivande vid flera sökande. Du får **ETT** köpoäng per års [medlemskap](../medlemskap/), oavsett om du är vänmedlem eller bomedlem. Vid inflytt eller internt byte återställs dina ködagar.

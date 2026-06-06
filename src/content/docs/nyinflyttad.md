@@ -5,22 +5,22 @@ description: Checklista för dig som nyligen flyttat in i kollektivhuset Rudbeck
 
 ![Illustration: nyinflyttning till Rudbeckia](../../assets/nyinflyttad/nyinflyttad.png)
 
-Här är en checklista för att vägleda dig som nyinflyttad.
+Check­lista för dig som nyflyttad.
 
 ## Inför inflytt
 
-- Läs igenom materialet som finns på denna webbplats – särskilt de viktigaste [reglerna](./huset/regler/) vi har i huset.
-- Maila [kontakt@rudbeckia.nu](mailto:kontakt@rudbeckia.nu) och be om tillgång till Mattermost och wikin om du inte fått det redan.
-- Skapa ett konto i Mattermost och wikin.
+- Läs igenom materialet på webbplatsen – särskilt husets [regler](./huset/regler/).
+- Maila [kontakt@rudbeckia.nu](mailto:kontakt@rudbeckia.nu) och be om tillgång till Mattermost och wikin om du inte fått det.
+- Skapa konton i Mattermost och wikin.
 - Introducera dig själv i **entré**-kanalen.
-- Fråga i kanalen om någon vill ställa upp som mentor.
-- **Om du har bil:** Läs igenom informationen om de olika parkeringar som finns i närheten av huset.
-- Undersök husets cykelpool och se hur du [bokar elcykel och ellastcykel](./boka/).
+- Fråga om någon vill vara mentor.
+- **Om du har bil:** Läs om parkeringarna i närheten.
+- Bekanta dig med cykelpoolen och hur du [bokar elcykel och ellastcykel](./boka/).
 
 ## Under inflytt
 
-**En pirra** och **två flyttskivor** i olika storlekar finns att hämta i cykelrummet på **plan -1** för att underlätta inflyttningen.
+**En pirra** och **två flyttskivor** i olika storlekar finns i cykelrummet på **plan -1**.
 
 :::caution[Varning för hissen]
-Var särskilt försiktig när du använder hissen och blockera inte själva dörren när den försöker stänga.
+Var försiktig med hissen och blockera aldrig dörren när den stänger.
 :::

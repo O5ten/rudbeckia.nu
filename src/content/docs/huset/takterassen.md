@@ -5,7 +5,7 @@ description: Husets takterass med utsikt över Uppsala.
 
 ![Takterassen med utsikt över Uppsala](../../../assets/huset/takterassen/takterass.png)
 
-Egentligen behöver man inte säga så mycket om takterassen, förutom att utsikten är fantastisk – man ser domkyrkan och slottet i horisonten.
+Inte mycket att säga om takterassen, förutom att utsikten är fantastisk — domkyrkan och slottet syns i horisonten.
 
 - Vi har byggt en trevlig lounge där många sommarkvällar har spenderats.
 - Ibland tar vi upp en plaskpool till barnen för svalka på varma sommardagar.

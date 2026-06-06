@@ -5,12 +5,12 @@ description: Bokning och regler för Rudbeckias gästrum.
 
 ![Ett av Rudbeckias gästrum](../../../assets/huset/gastrummen/gastrum.png)
 
-Gästrummen kan enkelt bokas utifrån behov på en fysisk kalender vid torget. Det finns tre separata gästrum varav två är större och ligger på markplan intill lekrummet. Sen finns det ett litet övernattningsrum på plan 6 precis intill hissen.
+Gästrummen bokas på en fysisk kalender vid torget. Det finns tre rum: två större på markplan intill lekrummet och ett litet övernattningsrum på plan 6 intill hissen.
 
 ## Hur bokar jag ett gästrum?
 
-Du som bor i huset bokar på plats vid gästrummet via en kalender som sitter på whiteboarden på torget. Markera med ditt namn och lägenhetsnummer.
+Bor du i huset bokar du på plats via kalendern på whiteboarden vid torget. Markera med ditt namn och lägenhetsnummer.
 
 ## Vad förväntas av min gäst?
 
-Din gäst (eller du som bokar) förväntas städa gästrummet och det tillhörande badrummet, och återställa det till åtminstone samma nivå som det var innan. En liten städvagn finns i badrummet intill.
+Din gäst (eller du som bokar) städar gästrummet och badrummet och återställer minst till samma nivå som tidigare. En liten städvagn finns i badrummet.
