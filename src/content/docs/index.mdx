@@ -31,26 +31,60 @@ I november 2021 blev kollektivhuset Rudbeckia i stadsdelen [Rosendal](./rosendal
 
 ## Vad vill du veta mer om?
 
+<style>{`
+	.link-grid .card {
+		position: relative;
+		transition: border-color 0.2s ease, background-color 0.2s ease;
+	}
+	.link-grid .card:hover {
+		border-color: var(--sl-color-text-accent);
+		background-color: var(--sl-color-gray-7, var(--sl-color-black));
+	}
+	.link-grid .card a.card-link {
+		position: absolute;
+		inset: 0;
+		z-index: 1;
+		text-indent: -9999px;
+		overflow: hidden;
+	}
+`}</style>
+
+<div class="link-grid">
 <CardGrid>
 	<Card title="Nyinflyttad" icon="open-book">
-		Checklista och tips för dig som precis flyttat in. [Läs mer →](./nyinflyttad/)
+		Checklista och tips för dig som precis flyttat in.
+		<a class="card-link" href="./nyinflyttad/">Nyinflyttad</a>
 	</Card>
 	<Card title="Föreningen" icon="seti:notebook">
-		Värdegrund, medlemskap, styrelse och husmöten. [Läs mer →](./foreningen/)
+		Värdegrund, medlemskap, styrelse och husmöten.
+		<a class="card-link" href="./foreningen/">Föreningen</a>
 	</Card>
 	<Card title="Kollektivet" icon="seti:happenings">
-		Matlagen, arbetsgrupper, städning och odling. [Läs mer →](./kollektivet/)
+		Matlagen, arbetsgrupper, städning och odling.
+		<a class="card-link" href="./kollektivet/">Kollektivet</a>
 	</Card>
 	<Card title="Huset" icon="window">
-		Matsalen, köket, vardagsrummet, takterassen och mer. [Läs mer →](./huset/)
+		Matsalen, köket, vardagsrummet, takterassen och mer.
+		<a class="card-link" href="./huset/">Huset</a>
 	</Card>
 	<Card title="Kalendarium" icon="seti:clock">
-		Husets gemensamma aktiviteter och bokningar. [Läs mer →](./kalendarium/)
+		Husets gemensamma aktiviteter och bokningar.
+		<a class="card-link" href="./kalendarium/">Kalendarium</a>
 	</Card>
 	<Card title="Kontakt" icon="email">
-		Hur du når styrelsen och föreningen. [Läs mer →](./kontakt/)
+		Hur du når styrelsen och föreningen.
+		<a class="card-link" href="./kontakt/">Kontakt</a>
+	</Card>
+	<Card title="Mediainslag" icon="seti:default">
+		Artiklar, radioinslag och inlägg om huset sedan 2014.
+		<a class="card-link" href="./media/">Mediainslag</a>
+	</Card>
+	<Card title="Matlagen" icon="seti:plan">
+		Så fungerar de gemensamma matlagen i huset.
+		<a class="card-link" href="./kollektivet/matlagen/">Matlagen</a>
 	</Card>
 </CardGrid>
+</div>
 
 ## För dig som bor i huset
 

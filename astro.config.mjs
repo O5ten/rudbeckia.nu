@@ -98,6 +98,7 @@ export default defineConfig({
 				{ label: 'Boka', link: '/boka/' },
 				{ label: 'Rosendal', link: '/rosendal/' },
 				{ label: 'Historia', link: '/historia/' },
+				{ label: 'I media', link: '/media/' },
 				{ label: 'Kontakt', link: '/kontakt/' },
 			],
 		}),
