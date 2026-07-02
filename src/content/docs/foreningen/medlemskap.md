@@ -3,7 +3,15 @@ title: Medlemskap
 description: Om medlemskap i föreningen Kollektivhuset Rudbeckia.
 ---
 
-Alla boende i huset ska vara medlemmar i föreningen och följa dess stadgar. Alla boende som fyllt 18 år är bomedlemmar, oavsett kontraktstyp. Föreningen har två medlemsnivåer.
+Alla boende i huset ska vara medlemmar i föreningen och följa dess stadgar. Föreningen har två medlemsnivåer: bomedlemmar och vänmedlemmar.
+
+## Bomedlemmar
+
+Bomedlemmar är medlemmar i föreningen som bor i huset. Alla boende som fyllt 18 år är bomedlemmar, oavsett kontraktstyp.
+
+## Vänmedlemmar
+
+Vänmedlemmar är medlemmar i föreningen som inte bor i huset, men som har rätt att delta i husets matlag och aktiviteter.
 
 ## Bli medlem i föreningen
 
