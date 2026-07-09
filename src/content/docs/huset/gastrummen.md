@@ -9,9 +9,13 @@ Gästrummen bokas på en fysisk kalender vid torget. Det finns tre rum: två st�
 
 ## Sängplatser
 
-I det första gästrummet till vänster finns en dubbelsäng på 2x90 som är svåra att ta isär, med en madrass. Ovanför ligger ett loft med en 140-säng.
+I det första gästrummet till vänster finns en dubbelsäng på 2x90 med en madrass. Ovanför ligger ett loft med en 140-säng.
 
-I det andra rummet är nederdelen en 140-säng.
+Det andra rummet har en våningssäng med en 140-säng nedtill och en 90-säng ovanpå.
+
+## Extranycklar
+
+Skulle nyckeln till gästrummet komma bort finns det extranycklar att hämta i 1403 i nödfall.
 
 ## Hur bokar jag ett gästrum?
 
