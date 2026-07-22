@@ -10,6 +10,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			plugins: [starlightThemeFlexoki({ accentColor: 'yellow' })],
+			components: {
+				Hero: './src/components/Hero.astro',
+			},
 			title: 'Kollektivhuset Rudbeckia',
 			logo: {
 				src: './src/assets/rudbeckia.png',

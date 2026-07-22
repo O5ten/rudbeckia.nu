@@ -1,0 +1,172 @@
+---
+import { Image } from 'astro:assets';
+import DraftContentNotice from 'virtual:starlight/components/DraftContentNotice';
+import { LinkButton } from '@astrojs/starlight/components';
+
+const PAGE_TITLE_ID = '_top';
+
+const { data } = Astro.locals.starlightRoute.entry;
+const { title = data.title, tagline, image, actions = [] } = data.hero || {};
+
+// Render the banner at high resolution; CSS crops it to a wide banner via object-fit.
+const imageAttrs = {
+	loading: 'eager' as const,
+	decoding: 'async' as const,
+	width: 1600,
+	height: 1200,
+	alt: image?.alt || '',
+};
+
+let darkImage: ImageMetadata | undefined;
+let lightImage: ImageMetadata | undefined;
+let rawHtml: string | undefined;
+if (image) {
+	if ('file' in image) {
+		darkImage = image.file;
+	} else if ('dark' in image) {
+		darkImage = image.dark;
+		lightImage = image.light;
+	} else {
+		rawHtml = image.html;
+	}
+}
+---
+
+<div class="hero">
+	{
+		(darkImage || lightImage || rawHtml) && (
+			<div class="hero-banner">
+				{darkImage && (
+					<Image
+						src={darkImage}
+						{...imageAttrs}
+						class:list={{ 'light:sl-hidden': Boolean(lightImage) }}
+					/>
+				)}
+				{lightImage && <Image src={lightImage} {...imageAttrs} class="dark:sl-hidden" />}
+				{rawHtml && <div class="hero-html sl-flex" set:html={rawHtml} />}
+			</div>
+		)
+	}
+	<div class="sl-flex stack">
+		<div class="sl-flex copy">
+			<h1 id={PAGE_TITLE_ID} data-page-title set:html={title} />
+			{data.draft && <DraftContentNotice />}
+			{tagline && <div class="tagline" set:html={tagline} />}
+		</div>
+		{
+			actions.length > 0 && (
+				<div class="sl-flex actions">
+					{actions.map(
+						({ attrs: { class: className, ...attrs } = {}, icon, link: href, text, variant }) => (
+							<LinkButton {href} {variant} icon={icon?.name} class:list={[className]} {...attrs}>
+								{text}
+								{icon?.html && <Fragment set:html={icon.html} />}
+							</LinkButton>
+						)
+					)}
+				</div>
+			)
+		}
+	</div>
+</div>
+
+<script>
+	const banner = document.querySelector<HTMLElement>('.hero-banner');
+	if (banner) {
+		let ticking = false;
+		const update = () => {
+			ticking = false;
+			const rect = banner.getBoundingClientRect();
+			// Fade over roughly the height of the banner as it scrolls out the top.
+			const fadeOver = rect.height * 0.9;
+			const scrolledPast = Math.min(Math.max(-rect.top, 0), fadeOver);
+			banner.style.setProperty('--hero-p', (scrolledPast / fadeOver).toFixed(3));
+		};
+		const onScroll = () => {
+			if (!ticking) {
+				ticking = true;
+				requestAnimationFrame(update);
+			}
+		};
+		update();
+		window.addEventListener('scroll', onScroll, { passive: true });
+		window.addEventListener('resize', update);
+	}
+</script>
+
+<style>
+	@layer starlight.core {
+		.hero {
+			display: flex;
+			flex-direction: column;
+			gap: clamp(1.5rem, calc(1rem + 4vw), 3rem);
+			padding-bottom: 1rem;
+		}
+
+		/* Full-width banner that scrolls up with the page and fades as it goes. */
+		.hero-banner {
+			--hero-p: 0;
+			width: 100%;
+			/* Source is 4:3; a wider ratio crops a bit of the empty sky off the top. */
+			aspect-ratio: 16 / 10;
+			overflow: hidden;
+			border-radius: 0.75rem;
+			opacity: calc(1 - var(--hero-p));
+			transform: translateY(calc(var(--hero-p) * -48px)) scale(calc(1 + var(--hero-p) * 0.04));
+			transform-origin: top center;
+			will-change: opacity, transform;
+		}
+
+		.hero-banner > :global(img),
+		.hero-banner > .hero-html {
+			display: block;
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			/* Anchor toward the bottom so the crop comes off the top. */
+			object-position: center bottom;
+		}
+
+		.stack {
+			flex-direction: column;
+			gap: clamp(1.5rem, calc(1.5rem + 1vw), 2rem);
+			text-align: center;
+			align-items: center;
+		}
+
+		.copy {
+			flex-direction: column;
+			gap: 1rem;
+			align-items: center;
+		}
+
+		.copy > * {
+			max-width: 50ch;
+		}
+
+		h1 {
+			font-size: clamp(var(--sl-text-3xl), calc(0.25rem + 5vw), var(--sl-text-6xl));
+			line-height: var(--sl-line-height-headings);
+			font-weight: 600;
+			color: var(--sl-color-white);
+		}
+
+		.tagline {
+			font-size: clamp(var(--sl-text-base), calc(0.0625rem + 2vw), var(--sl-text-xl));
+			color: var(--sl-color-gray-2);
+		}
+
+		.actions {
+			gap: 1rem 2rem;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+
+		@media (prefers-reduced-motion: reduce) {
+			.hero-banner {
+				transform: none;
+			}
+		}
+	}
+</style>
