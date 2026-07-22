@@ -45,6 +45,7 @@ if (image) {
 				)}
 				{lightImage && <Image src={lightImage} {...imageAttrs} class="dark:sl-hidden" />}
 				{rawHtml && <div class="hero-html sl-flex" set:html={rawHtml} />}
+				<span class="hero-credit">Foto: Dvir</span>
 			</div>
 		)
 	}
@@ -118,6 +119,10 @@ if (image) {
 			will-change: opacity, transform;
 		}
 
+		.hero-banner {
+			position: relative;
+		}
+
 		.hero-banner > :global(img),
 		.hero-banner > .hero-html {
 			display: block;
@@ -126,6 +131,25 @@ if (image) {
 			object-fit: cover;
 			/* Anchor toward the bottom so the crop comes off the top. */
 			object-position: center bottom;
+		}
+
+		/* Photographer credit watermark. */
+		.hero-credit {
+			position: absolute;
+			right: 0.75rem;
+			bottom: 0.6rem;
+			padding: 0.2em 0.6em;
+			font-size: var(--sl-text-xs);
+			line-height: 1.4;
+			letter-spacing: 0.02em;
+			color: hsl(0 0% 100% / 0.92);
+			background: hsl(0 0% 0% / 0.35);
+			border-radius: 999px;
+			backdrop-filter: blur(4px);
+			-webkit-backdrop-filter: blur(4px);
+			text-shadow: 0 1px 2px hsl(0 0% 0% / 0.5);
+			pointer-events: none;
+			user-select: none;
 		}
 
 		.stack {
