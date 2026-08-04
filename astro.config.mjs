@@ -100,6 +100,7 @@ export default defineConfig({
 				},
 				{ label: 'Kalendarium', link: '/kalendarium/' },
 				{ label: 'Boka', link: '/boka/' },
+				{ label: 'Uthyrning av lokaler', link: '/uthyrning/' },
 				{ label: 'Rosendal', link: '/rosendal/' },
 				{ label: 'Historia', link: '/historia/' },
 				{ label: 'I media', link: '/media/' },
