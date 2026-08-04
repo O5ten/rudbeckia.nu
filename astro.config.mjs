@@ -64,6 +64,7 @@ export default defineConfig({
 						{ label: 'Värdegrund', link: '/foreningen/vardegrund/' },
 						{ label: 'Medlemskap', link: '/foreningen/medlemskap/' },
 						{ label: 'Förmedlingspolicy', link: '/foreningen/formedlingspolicy/' },
+						{ label: 'Andrahandsuthyrning', link: '/foreningen/andrahandsuthyrning/' },
 						{ label: 'Husmötet', link: '/foreningen/husmotet/' },
 						{ label: 'Styrelsen', link: '/foreningen/styrelsen/' },
 						{ label: 'Föregående styrelser', link: '/foreningen/foregaende-styrelser/' },

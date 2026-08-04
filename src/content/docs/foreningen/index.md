@@ -10,6 +10,7 @@ Föreningen Kollektivhuset Rudbeckia verkar för gemenskapen och livet inom huse
 - [Värdegrund](./vardegrund/) – så vill vi leva tillsammans
 - [Medlemskap](./medlemskap/) – så blir du medlem
 - [Förmedlingspolicy](./formedlingspolicy/) – hur lediga lägenheter förmedlas
+- [Andrahandsuthyrning](./andrahandsuthyrning/) – vad som gäller vid uthyrning i andra hand
 - [Husmötet](./husmotet/) – föreningens högsta beslutande organ
 - [Styrelsen](./styrelsen/) – nuvarande styrelse
 - [Föregående styrelser](./foregaende-styrelser/)
