@@ -29,7 +29,6 @@ Länkarna öppnar kanalen direkt i webbversionen. Är du inte inloggad får du l
 
 | Kanal | Beskrivning |
 | --- | --- |
-| [Give and take / Ge och ta emot](https://chat.rudbeckia.nu/rudbeckia/channels/give-and-take-ge-och-ta-emot) | Be om eller erbjuda en handräckning, till exempel att hänga upp en lampa eller laga en cykel. |
 | [Bortskänkes](https://chat.rudbeckia.nu/rudbeckia/channels/bortsknkesutlnas) | Saker som söker ny ägare eller lånas ut. |
 | [cykelpoolen](https://chat.rudbeckia.nu/rudbeckia/channels/cykelpoolen) | Samordning och drift av elcykelpoolen. |
 | [3d-printing](https://chat.rudbeckia.nu/rudbeckia/channels/3d-printing) | Husets 3D-skrivare och det som skrivs ut på den. |
@@ -38,10 +37,9 @@ Länkarna öppnar kanalen direkt i webbversionen. Är du inte inloggad får du l
 
 | Kanal | Beskrivning |
 | --- | --- |
-| [🌼 Blommorna utanför entrén](https://chat.rudbeckia.nu/rudbeckia/channels/blommorna-utanfor-entren) | Vi hjälps åt att vattna och sköta blommorna vid entrén. |
+| [Blommorna utanför entrén](https://chat.rudbeckia.nu/rudbeckia/channels/blommorna-utanfor-entren) | Vi hjälps åt att vattna och sköta blommorna vid entrén. |
 | [Aquarium Team / Akvariegruppen](https://chat.rudbeckia.nu/rudbeckia/channels/aquarium-teame-akariegruppen-equipe-de-laquarium) | Skötsel av husets akvarium. |
 | [Vardagsrum städning](https://chat.rudbeckia.nu/rudbeckia/channels/vaedags-rum-stadning) | För oss som har ansvar för städningen i vardagsrummet. |
-| [SumpTillSvampar](https://chat.rudbeckia.nu/rudbeckia/channels/sumptillsvampar) | Vi gör svampar och kompost av husets kaffesump. |
 
 ## Matlagen
 
