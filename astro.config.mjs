@@ -80,6 +80,7 @@ export default defineConfig({
 						{ label: 'Städschema', link: '/kollektivet/stadschema/' },
 						{ label: 'Odling', link: '/kollektivet/odling/' },
 						{ label: 'Digital kommunikation', link: '/kollektivet/digital-kommunikation/' },
+						{ label: 'Kanaler i Mattermost', link: '/kollektivet/mattermost-kanaler/' },
 					],
 				},
 				{
