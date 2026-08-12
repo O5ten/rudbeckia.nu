@@ -15,50 +15,18 @@ hero:
     - text: Är du nyfiken på att bo här?
       link: /foreningen/formedlingspolicy/
       icon: right-arrow
-      variant: minimal
+      variant: secondary
     - text: Läs mer om huset
       link: /huset/
       icon: external
-      variant: minimal
+      variant: secondary
 ---
 
 import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
-import { Image } from 'astro:assets';
-import oppetHusSplash from '../../assets/oppet-hus/splash.png';
 
 ## Välkommen!
 
 I november 2021 blev kollektivhuset Rudbeckia i stadsdelen [Rosendal](./rosendal/) i Uppsala inflyttningsklart. Huset har 42 lägenheter och över 300 kvadratmeter gemensamma ytor. Boendeformen utvecklas för att den ska bli precis så fantastisk som vi önskar. Varje dag ger nya möjligheter att lära känna varandra.
-
-## Öppet hus lördag 3 oktober
-
-<style>{`
-	.oppet-hus-banner {
-		display: block;
-		border-radius: 0.5rem;
-		overflow: hidden;
-		border: 1px solid var(--sl-color-hairline);
-		transition: border-color 0.2s ease, transform 0.2s ease;
-	}
-	.oppet-hus-banner:hover {
-		border-color: var(--sl-color-text-accent);
-		transform: translateY(-2px);
-	}
-	.oppet-hus-banner img {
-		display: block;
-		width: 100%;
-		height: auto;
-	}
-`}</style>
-
-<a class="oppet-hus-banner" href="./oppet-hus/">
-	<Image
-		src={oppetHusSplash}
-		alt="Affisch: Öppet hus hos kollektivhuset Rudbeckia lördag 3 oktober 13.00–16.00. Visningar startar på hel timme – 13.00, 14.00 och 15.00 – och det bjuds på enkel fika."
-	/>
-</a>
-
-Vi visar upp huset för alla som är nyfikna – **lördag 3 oktober, 13.00–16.00**. Visningarna startar på hel timme (13.00, 14.00 och 15.00) och avslutas med fika i matsalen. Anmäl dig till [oppet-hus@rudbeckia.nu](mailto:oppet-hus@rudbeckia.nu), eller läs mer på sidan [Öppet hus](./oppet-hus/).
 
 :::tip[Nyfiken på att bo i kollektivhuset?]
 - [kontakta Rudbeckias förmedlingsgrupp direkt](mailto:ny@rudbeckia.nu) så att vi vet att du är intresserad! 
@@ -88,10 +56,6 @@ Vi visar upp huset för alla som är nyfikna – **lördag 3 oktober, 13.00–16
 
 <div class="link-grid">
 <CardGrid>
-	<Card title="Öppet hus" icon="seti:happenings">
-		Lördag 3 oktober, 13.00–16.00. Visning och fika – välkommen!
-		<a class="card-link" href="./oppet-hus/">Öppet hus</a>
-	</Card>
 	<Card title="Nyinflyttad" icon="open-book">
 		Checklista och tips för dig som precis flyttat in.
 		<a class="card-link" href="./nyinflyttad/">Nyinflyttad</a>
