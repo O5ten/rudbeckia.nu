@@ -56,6 +56,7 @@ export default defineConfig({
 					],
 				},
 				{ label: 'Hem', link: '/' },
+				{ label: 'Öppet hus', link: '/oppet-hus/' },
 				{ label: 'Nyinflyttad', link: '/nyinflyttad/' },
 				{
 					label: 'Föreningen',
