@@ -51,6 +51,8 @@ export default defineConfig({
 					items: [
 						{ label: 'Mattermost', link: 'https://chat.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
 						{ label: 'Kalender', link: 'https://calendar.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
+						{ label: 'Bokning', link: 'https://booking.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
+						{ label: 'Middagsanmälan', link: 'https://dinner.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
 						{ label: 'Recept', link: 'https://recept.rudbeckia.nu', attrs: { target: '_blank', rel: 'noopener' } },
 						{ label: 'Dokument', link: '/dokument/' },
 					],

@@ -7,6 +7,13 @@ description: Husets två cykelrum – ett i källaren och ett på markplan.
 
 Vi har två cykelrum: ett i källaren och ett på markplan. Det på markplan är mindre och har en kompressor för däcken samt en hylla för cykelkorgar och hjälmar att låna.
 
+## Husets egna cyklar
+
+Ellastcykeln och elcykeln står i cykelrummet på markplan och bokas på
+[booking.rudbeckia.nu](https://booking.rudbeckia.nu) – se [Boka](../../boka/).
+Nycklarna och batterierna hänger på hyllan i städrummet intill hissen; lägg
+tillbaka nyckeln och batteriet på laddning när du är klar.
+
 ## Var ställer jag min cykel?
 
 Vi har några informella regler. En är att om du orkar lyfta cykeln till övervåningen så gör du det — det ger plats på nedervåningen.

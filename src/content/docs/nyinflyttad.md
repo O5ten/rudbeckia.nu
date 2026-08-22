@@ -9,13 +9,16 @@ Check­lista för dig som nyflyttad.
 
 ## Inför inflytt
 
-- Läs igenom materialet på webbplatsen – särskilt husets [regler](./huset/regler/).
+- Läs igenom materialet på webbplatsen – särskilt husets [regler](/huset/regler/).
 - Maila [kontakt@rudbeckia.nu](mailto:kontakt@rudbeckia.nu) och be om tillgång till Mattermost om du inte fått det.
 - Skapa ett konto i Mattermost.
 - Introducera dig själv i **entré**-kanalen.
 - Fråga om någon vill vara mentor.
 - **Om du har bil:** Läs om parkeringarna i närheten.
-- Bekanta dig med cykelpoolen och hur du [bokar elcykel och ellastcykel](./boka/).
+- Bekanta dig med cykelpoolen och hur du [bokar elcykel och ellastcykel](/boka/) på
+  [booking.rudbeckia.nu](https://booking.rudbeckia.nu).
+- Anmäl dig till [husets gemensamma middagar](https://dinner.rudbeckia.nu) på tisdagar
+  och torsdagar – se [Matlagen](/kollektivet/matlagen/).
 
 ## Under inflytt
 

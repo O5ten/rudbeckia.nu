@@ -11,6 +11,32 @@ Vi lagar mat varje **tisdag** och **torsdag** och middagen börjar oftast 17:30.
 
 Du förväntas delta i ungefär två pass per matlagsvecka. Kan du inte alls, försök hitta en ersättare från ett annat matlag.
 
+## Anmälan till middagarna
+
+Du anmäler ditt hushåll på **<https://dinner.rudbeckia.nu>**. Logga in med husets
+lösenord, välj kväll och fyll i hur många vuxna och barn som kommer, vad ni äter
+och eventuella allergier. Bekräftelsen kommer som ett direktmeddelande från husets
+bot, tillsammans med kvällen som kalenderfil.
+
+Äter du med de flesta gånger kan du slå på en **stående anmälan** under *Mina
+anmälningar*: fyll i hur ni brukar äta en viss veckodag, så räknas ni med varje
+gång utan att göra något. En anmälan för en enskild kväll vinner alltid över den
+stående – en anmälan för noll personer är just så du hoppar över en kväll utan att
+röra din stående anmälan.
+
+**Anmälan stänger fredagen en hel vecka före middagsveckan, 23:59**, eftersom
+matlaget handlar för hela veckan på en gång. Efter det går det inte att anmäla sig
+eller ändra sig på sidan – hör av dig till lagledaren.
+
+**Gäster** anmäler sig själva på <https://dinner.rudbeckia.nu/gast>, utan lösenord.
+De väljer kväll och skriver sitt namn och vem de hälsar på. Länken de får tillbaka
+är kvittot och det enda sättet att ändra eller avanmäla sig, så den behöver de
+spara.
+
+När anmälan stänger får lagledaren **matlistan** som ett direktmeddelande från
+boten: summorna laget handlar efter och en länk till den utskriftsvänliga listan
+med hushållen och allergierna.
+
 ## Matlag och schema
 
 | | **Matlag 1** | **Matlag 2** | **Matlag 3** | **Matlag 4** |
