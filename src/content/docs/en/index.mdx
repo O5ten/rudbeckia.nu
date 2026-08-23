@@ -1,0 +1,103 @@
+---
+title: Rudbeckia Collective House
+description: Welcome to the Rudbeckia collective house in Rosendal, Uppsala.
+template: splash
+hero:
+  image:
+    file: ../../../assets/index/rainbow-photo.jpg
+    alt: The Rudbeckia collective house with a rainbow above it
+  tagline: A collective house in the Rosendal district of Uppsala – 42 apartments and more than 300 square metres of shared space.
+  actions:
+    - text: Open house 3 October
+      link: /en/oppet-hus/
+      icon: right-arrow
+      variant: primary
+    - text: Curious about living here?
+      link: /en/foreningen/formedlingspolicy/
+      icon: right-arrow
+      variant: secondary
+    - text: Read more about the house
+      link: /en/huset/
+      icon: external
+      variant: secondary
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Welcome!
+
+The Rudbeckia collective house in the [Rosendal](./rosendal/) district of Uppsala was ready for move-in in November 2021. The house has 42 apartments and more than 300 square metres of shared space. We keep developing the way we live here so that it becomes exactly as wonderful as we want it to be. Every day brings new chances to get to know one another.
+
+:::tip[Curious about living in the collective house?]
+- [Contact Rudbeckia's allocation group directly](mailto:ny@rudbeckia.nu) so that we know you are interested!
+- [Check available apartments in the Uppsala housing queue](https://www.bostad.uppsala.se/mypages/app/?district=Rosendal&objectType=collective&region=Uppsala)
+- [Hemvist Fastigheter's own queue](https://bostad.hemvistforvaltning.se/bostad?cities=Uppsala&page=1)
+:::
+
+## What would you like to know more about?
+
+<style>{`
+	.link-grid .card {
+		position: relative;
+		transition: border-color 0.2s ease, background-color 0.2s ease;
+	}
+	.link-grid .card:hover {
+		border-color: var(--sl-color-text-accent);
+		background-color: var(--sl-color-gray-7, var(--sl-color-black));
+	}
+	.link-grid .card a.card-link {
+		position: absolute;
+		inset: 0;
+		z-index: 1;
+		text-indent: -9999px;
+		overflow: hidden;
+	}
+`}</style>
+
+<div class="link-grid">
+<CardGrid>
+	<Card title="Just moved in" icon="open-book">
+		A checklist and tips for you who have just moved in.
+		<a class="card-link" href="./nyinflyttad/">Just moved in</a>
+	</Card>
+	<Card title="The association" icon="seti:notebook">
+		Our values, membership, the board and house meetings.
+		<a class="card-link" href="./foreningen/">The association</a>
+	</Card>
+	<Card title="The collective" icon="seti:happenings">
+		Cooking teams, working groups, cleaning and gardening.
+		<a class="card-link" href="./kollektivet/">The collective</a>
+	</Card>
+	<Card title="The house" icon="window">
+		The dining hall, the kitchen, the living room, the roof terrace and more.
+		<a class="card-link" href="./huset/">The house</a>
+	</Card>
+	<Card title="Events calendar" icon="seti:clock">
+		The shared activities and bookings of the house.
+		<a class="card-link" href="./kalendarium/">Events calendar</a>
+	</Card>
+	<Card title="Contact" icon="email">
+		How to reach the board and the association.
+		<a class="card-link" href="./kontakt/">Contact</a>
+	</Card>
+	<Card title="In the media" icon="seti:default">
+		Articles, radio features and posts about the house since 2014.
+		<a class="card-link" href="./media/">In the media</a>
+	</Card>
+	<Card title="Cooking teams" icon="seti:plan">
+		How the shared cooking teams in the house work.
+		<a class="card-link" href="./kollektivet/matlagen/">Cooking teams</a>
+	</Card>
+</CardGrid>
+</div>
+
+## For you who live in the house
+
+<CardGrid>
+	<LinkCard title="Mattermost ↗" href="https://chat.rudbeckia.nu" description="Chat with your neighbours and organise the cooking teams." />
+	<LinkCard title="Calendar ↗" href="https://calendar.rudbeckia.nu" description="The shared calendar of the house, with activities and bookings." />
+	<LinkCard title="Booking ↗" href="https://booking.rudbeckia.nu" description="Book the electric cargo bike and the e-bike. Confirmation in Mattermost." />
+	<LinkCard title="Dinner sign-up ↗" href="https://dinner.rudbeckia.nu" description="Sign your household up for the shared dinners of the house." />
+	<LinkCard title="Recipes ↗" href="https://recept.rudbeckia.nu" description="The recipe collection for the cooking teams' dinners." />
+	<LinkCard title="Documents" href="./dokument/" description="The association's shared documents in Google Drive." />
+</CardGrid>

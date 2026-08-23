@@ -11,4 +11,4 @@ Husmötet är föreningens högsta beslutande organ – där bestämmer vi vad v
 
 Är formell mötesteknik nytt för dig? Vi lär dig allt du behöver veta på plats.
 
-[📄 Ladda ner motesteknik.pdf](/rudbeckia.nu/pdfs/motesteknik.pdf)
+[📄 Ladda ner motesteknik.pdf](/pdfs/motesteknik.pdf)

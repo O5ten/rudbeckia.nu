@@ -5,7 +5,9 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 const PAGE_TITLE_ID = '_top';
 
-const { data } = Astro.locals.starlightRoute.entry;
+const { entry, lang } = Astro.locals.starlightRoute;
+const { data } = entry;
+const photoCredit = lang.startsWith('sv') ? 'Foto: Dvir' : 'Photo: Dvir';
 const { title = data.title, tagline, image, actions = [] } = data.hero || {};
 
 // Render the banner at high resolution; CSS crops it to a wide banner via object-fit.
@@ -45,7 +47,7 @@ if (image) {
 				)}
 				{lightImage && <Image src={lightImage} {...imageAttrs} class="dark:sl-hidden" />}
 				{rawHtml && <div class="hero-html sl-flex" set:html={rawHtml} />}
-				<span class="hero-credit">Foto: Dvir</span>
+				<span class="hero-credit">{photoCredit}</span>
 			</div>
 		)
 	}

@@ -1,0 +1,23 @@
+---
+title: Events calendar
+description: The shared calendar of the house, with activities and bookings.
+---
+
+import { LinkCard } from '@astrojs/starlight/components';
+
+The shared calendar of the house, with activities and bookings.
+
+<LinkCard
+	title="Open the calendar in a new window ↗"
+	href="https://calendar.rudbeckia.nu"
+	description="Useful if the view below does not load."
+/>
+
+<iframe
+	src="https://calendar.rudbeckia.nu"
+	title="Events calendar"
+	loading="lazy"
+	style="width: 100%; height: 80vh; min-height: 600px; border: 1px solid var(--sl-color-gray-5); border-radius: 0.5rem; margin-block: 1.5rem;"
+></iframe>
+
+For the bike bookings themselves, see the [Book](../boka/) page.

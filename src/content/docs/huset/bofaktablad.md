@@ -11,7 +11,7 @@ Kollektivhuset Rudbeckia har 42 lägenheter, gemensamma ytor på entréplanet, e
 
 Bofaktabladet innehåller detaljerade ritningar över husets lägenheter i skala **1:100**, med motsvarande lägenhetsnummer per typ. Det finns som flersidig pdf — en sida per lägenhetstyp.
 
-[📄 Ladda ner Bofaktablad.pdf](/rudbeckia.nu/pdfs/bofaktablad.pdf)
+[📄 Ladda ner Bofaktablad.pdf](/pdfs/bofaktablad.pdf)
 
 ## Entréplan och gemensamma ytor
 
