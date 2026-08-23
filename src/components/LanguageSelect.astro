@@ -1,0 +1,113 @@
+---
+/**
+ * Language switcher rendered as two flag links instead of Starlight's default
+ * `<select>`. Chrome fails to paint the native select popup for the rightmost
+ * control in the header, and with only two languages plain links are clearer
+ * anyway. Matches the flag switcher used on booking.rudbeckia.nu.
+ */
+const { locale } = Astro.locals.starlightRoute;
+
+// The path of this page in the root (Swedish) locale, e.g. `/huset/koket/`.
+const pathname = Astro.url.pathname;
+const rootPath = locale ? pathname.replace(new RegExp(`^/${locale}(?=/|$)`), '') || '/' : pathname;
+
+const languages = [
+	{ code: undefined, flag: 'sv', label: 'Svenska', href: rootPath },
+	{ code: 'en', flag: 'gb', label: 'English', href: rootPath === '/' ? '/en/' : `/en${rootPath}` },
+];
+
+// Unique per render so the Union Jack clip path does not collide with the
+// second instance of this component in the mobile menu.
+const uid = Math.random().toString(36).slice(2, 8);
+---
+
+<nav aria-label={Astro.locals.t('languageSelect.accessibleLabel')}>
+	<ul>
+		{
+			languages.map(({ code, flag, label, href }) => {
+				const isCurrent = code === locale;
+				return (
+					<li>
+						<a href={href} hreflang={code ?? 'sv'} aria-current={isCurrent ? 'true' : undefined}>
+							{flag === 'sv' ? (
+								<svg viewBox="0 0 16 10" aria-hidden="true">
+									<rect width="16" height="10" fill="#005293" />
+									<path d="M0 4h16v2H0z M5 0h2v10H5z" fill="#fecb00" />
+								</svg>
+							) : (
+								<svg viewBox="0 0 60 30" aria-hidden="true">
+									<clipPath id={`uj-${uid}`}>
+										<path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z" />
+									</clipPath>
+									<rect width="60" height="30" fill="#012169" />
+									<path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6" />
+									<path
+										d="M0,0 L60,30 M60,0 L0,30"
+										clip-path={`url(#uj-${uid})`}
+										stroke="#c8102e"
+										stroke-width="4"
+									/>
+									<path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10" />
+									<path d="M30,0 v30 M0,15 h60" stroke="#c8102e" stroke-width="6" />
+								</svg>
+							)}
+							<span class="sr-only">{label}</span>
+						</a>
+					</li>
+				);
+			})
+		}
+	</ul>
+</nav>
+
+<style>
+	@layer starlight.components {
+		ul {
+			display: flex;
+			align-items: center;
+			gap: 0.375rem;
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+
+		a {
+			display: flex;
+			padding: 0.25rem;
+			border-radius: 0.25rem;
+			line-height: 0;
+			outline-offset: 2px;
+		}
+
+		svg {
+			width: 1.375rem;
+			height: auto;
+			border-radius: 0.125rem;
+			/* A hairline keeps the white in the Union Jack from bleeding into the header. */
+			box-shadow: 0 0 0 1px hsl(0 0% 50% / 0.35);
+			opacity: 0.45;
+			filter: saturate(0.6);
+			transition: opacity 0.15s ease, filter 0.15s ease;
+		}
+
+		a:hover svg,
+		a:focus-visible svg {
+			opacity: 0.85;
+			filter: none;
+		}
+
+		a[aria-current] svg {
+			opacity: 1;
+			filter: none;
+			box-shadow:
+				0 0 0 1px hsl(0 0% 50% / 0.35),
+				0 0 0 2px var(--sl-color-text-accent);
+		}
+
+		@media (prefers-reduced-motion: reduce) {
+			svg {
+				transition: none;
+			}
+		}
+	}
+</style>

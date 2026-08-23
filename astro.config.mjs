@@ -12,6 +12,7 @@ export default defineConfig({
 			plugins: [starlightThemeFlexoki({ accentColor: 'yellow' })],
 			components: {
 				Hero: './src/components/Hero.astro',
+				LanguageSelect: './src/components/LanguageSelect.astro',
 			},
 			title: {
 				sv: 'Kollektivhuset Rudbeckia',

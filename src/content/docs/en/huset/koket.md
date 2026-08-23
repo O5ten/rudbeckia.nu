@@ -11,8 +11,17 @@ A fully equipped commercial kitchen with a hob, two boiling pans, a convection o
 
 ## How does everything in the kitchen work?
 
-The best way to learn the kitchen is by taking part in the cooking teams.
+We hold **kitchen training once or twice per season**, when new people have moved
+into the house. You are very welcome to attend the training more than once.
+
+During the session we go through the equipment and how it works — both for your
+own safety and to keep the equipment itself safe.
+
+Beyond that, the best way to learn the kitchen is by taking part in the cooking teams.
 
 ## Can I borrow something from the kitchen?
 
-The question has not been raised at a house meeting yet, but if you borrow equipment or ingredients you are expected to return or replace them before the kitchen needs them next.
+Yes, you can. The condition is that you return it:
+
+- straight after you have used it, or
+- at the latest before the next cooking or prepping session begins.
