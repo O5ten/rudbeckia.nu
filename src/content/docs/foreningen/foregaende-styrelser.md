@@ -4,6 +4,17 @@ description: Tidigare styrelser i föreningen Kollektivhuset Rudbeckia.
 ---
 
 
+## 2025 års styrelse
+
+| Roll | Vem |
+|------|-----|
+| Ordförande | Mikael Östberg |
+| Vice ordförande | Sara Orstadius |
+| Kassör | Göran Melin |
+| Vice kassör | Algimantas Vilkénas |
+| Sekreterare | Lena Wiklund |
+| Vice sekreterare | Megan Eardley |
+
 ## 2023 års styrelse
 
 | Roll | Vem |

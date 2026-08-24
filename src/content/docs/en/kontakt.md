@@ -5,16 +5,16 @@ description: How to reach the board of the association.
 
 The board represents the association towards external parties and organises the shared work of the association in the form of house meetings.
 
-## The 2025 board
+## The 2026 board
 
 | Role | Who |
 |------|-----|
 | Chair | Mikael Östberg |
-| Vice chair | Sara Orstadius |
-| Treasurer | Göran Melin |
-| Deputy treasurer | Algimantas Vilkénas |
+| Vice chair | Andreas Tillberg |
+| Treasurer | Algimantas Vilkénas |
+| Deputy treasurer | Christina "Kickie" Zetterberg |
 | Secretary | Lena Wiklund |
-| Deputy secretary | Megan Eardley |
+| Deputy secretary | Inga-Lill Sparr |
 
 ## Contact us
 

@@ -5,16 +5,16 @@ description: Så når du föreningens styrelse.
 
 Styrelsen representerar föreningen gentemot externa parter och organiserar föreningens gemensamma arbete i form av husmöten.
 
-## 2025 års styrelse
+## 2026 års styrelse
 
 | Roll | Vem |
 |------|-----|
 | Ordförande | Mikael Östberg |
-| Vice ordförande | Sara Orstadius |
-| Kassör | Göran Melin |
-| Vice kassör | Algimantas Vilkénas |
+| Vice ordförande | Andreas Tillberg |
+| Kassör | Algimantas Vilkénas |
+| Vice kassör | Christina "Kickie" Zetterberg |
 | Sekreterare | Lena Wiklund |
-| Vice sekreterare | Megan Eardley |
+| Vice sekreterare | Inga-Lill Sparr |
 
 ## Kontakta oss
 

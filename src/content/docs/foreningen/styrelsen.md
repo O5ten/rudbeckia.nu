@@ -5,16 +5,16 @@ description: Föreningens styrelse representerar Rudbeckia gentemot externa part
 
 Styrelsen representerar föreningen gentemot externa parter och organiserar föreningens gemensamma arbete i form av husmöten.
 
-## Styrelse 2025
+## Styrelse 2026
 
 | Roll | Vem |
 |------|-----|
 | Ordförande | Mikael Östberg |
 | Vice ordförande | Andreas Tillberg |
-| Kassör | Algimantas Vilkenas |
-| Vice kassör | Christina Zetterberg |
-| Sekreterare | Inga-Lill Sparr |
-| Vice sekreterare | Lena Wiklund |
+| Kassör | Algimantas Vilkénas |
+| Vice kassör | Christina "Kickie" Zetterberg |
+| Sekreterare | Lena Wiklund |
+| Vice sekreterare | Inga-Lill Sparr |
 
 ## Kontakta oss
 

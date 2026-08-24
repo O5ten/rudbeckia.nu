@@ -4,6 +4,17 @@ description: Previous boards of the Kollektivhuset Rudbeckia association.
 ---
 
 
+## The 2025 board
+
+| Role | Who |
+|------|-----|
+| Chair | Mikael Östberg |
+| Vice chair | Sara Orstadius |
+| Treasurer | Göran Melin |
+| Deputy treasurer | Algimantas Vilkénas |
+| Secretary | Lena Wiklund |
+| Deputy secretary | Megan Eardley |
+
 ## The 2023 board
 
 | Role | Who |
