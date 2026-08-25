@@ -15,6 +15,17 @@ description: Previous boards of the Kollektivhuset Rudbeckia association.
 | Secretary | Lena Wiklund |
 | Deputy secretary | Megan Eardley |
 
+## The 2024 board
+
+| Role | Who |
+|------|-----|
+| Chair | Agnetha Resin |
+| Vice chair | Viktor Bolin |
+| Treasurer | Göran Melin |
+| Deputy treasurer | Naama Kadishai |
+| Secretary | Nicole Ovesen |
+| Deputy secretary | Lena Wiklund |
+
 ## The 2023 board
 
 | Role | Who |
@@ -37,4 +48,17 @@ description: Previous boards of the Kollektivhuset Rudbeckia association.
 | Treasurer | Amanda Lindstedt |
 | Board member | Per Swedberg |
 | Board member | Gunilla Hamberg |
-| Board member | Tarek Ouchaem |
+| Board member | Tarek Ouachem |
+
+## The 2021 board
+
+The board was constituted at the extra annual meeting on 30 July 2021.
+
+| Role | Who |
+|------|-----|
+| Chair | Pia Sandqvist |
+| Vice chair | Mikael Östberg |
+| Treasurer | Anders Lundgren |
+| Secretary | Monica Killander |
+| Board member | Marc de Witte |
+| Board member | Gunilla Hamberg |

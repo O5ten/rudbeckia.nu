@@ -15,6 +15,17 @@ description: Tidigare styrelser i föreningen Kollektivhuset Rudbeckia.
 | Sekreterare | Lena Wiklund |
 | Vice sekreterare | Megan Eardley |
 
+## 2024 års styrelse
+
+| Roll | Vem |
+|------|-----|
+| Ordförande | Agnetha Resin |
+| Vice ordförande | Viktor Bolin |
+| Kassör | Göran Melin |
+| Vice kassör | Naama Kadishai |
+| Sekreterare | Nicole Ovesen |
+| Vice sekreterare | Lena Wiklund |
+
 ## 2023 års styrelse
 
 | Roll | Vem |
@@ -37,4 +48,17 @@ description: Tidigare styrelser i föreningen Kollektivhuset Rudbeckia.
 | Kassör | Amanda Lindstedt |
 | Ledamot | Per Swedberg |
 | Ledamot | Gunilla Hamberg |
-| Ledamot | Tarek Ouchaem |
+| Ledamot | Tarek Ouachem |
+
+## 2021 års styrelse
+
+Styrelsen konstituerade sig vid det extra årsmötet den 30 juli 2021.
+
+| Roll | Vem |
+|------|-----|
+| Ordförande | Pia Sandqvist |
+| Vice ordförande | Mikael Östberg |
+| Kassör | Anders Lundgren |
+| Sekreterare | Monica Killander |
+| Ledamot | Marc de Witte |
+| Ledamot | Gunilla Hamberg |
