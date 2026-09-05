@@ -15,11 +15,13 @@ Vänmedlemmar är medlemmar i föreningen som inte bor i huset, men som har rät
 
 ## Bli medlem i föreningen
 
-Maila [kontakt@rudbeckia.nu](mailto:kontakt@rudbeckia.nu) och betala **300 kr** till bankgiro **5752-5925** märkt med ditt namn.
+[**Anmäl ditt intresse här**](https://members.rudbeckia.nu/bli-medlem) — du får betalningsuppgifterna direkt, med Swish eller bankgiro.
+
+Vill du hellre mejla går det bra också: [ny@rudbeckia.nu](mailto:ny@rudbeckia.nu).
 
 ## Alla medlemmar
 
-- Ansöker via [kontakt@rudbeckia.nu](mailto:kontakt@rudbeckia.nu).
-- Betalar årsavgiften (**300 kr** per person) till bankgiro **5752-5925** mellan 1 januari och sista februari för att bibehålla sitt medlemskap.
+- Ansöker via [medlemsanmälan](https://members.rudbeckia.nu/bli-medlem) eller [ny@rudbeckia.nu](mailto:ny@rudbeckia.nu).
+- Betalar årsavgiften (**250 kr** per person för 2026, **300 kr** från 2027) med Swish till **123-133 37 07** eller till bankgiro **5752-5925**, mellan 1 januari och sista februari, för att bibehålla sitt medlemskap.
 - Får delta i husets middagar.
 - Får **ETT** köpoäng per medlemsår i föreningens interna bostadskö.
